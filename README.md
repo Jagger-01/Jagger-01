@@ -19,15 +19,15 @@ Here are some of my featured projects:
 
 ### [Customer Insights and Sales Performance Dashboard](https://github.com/Jagger-01/Retail-Data-Analysis-PowerBI)
 An interactive Power BI dashboard that visualizes and analyzes customer behavior and sales performance.  
-<img src="https://github.com/user-attachments/assets/7fc41b84-5131-4980-86aa-e3ddd7f2cae9" alt="Customer Insights and Sales Performance Dashboard" width="1280" height="720">
+<img src="https://github.com/user-attachments/assets/7fc41b84-5131-4980-86aa-e3ddd7f2cae9" alt="Customer Insights and Sales Performance Dashboard" width="640" height="360">
 
 ### [Heart Attack Risk Explorer Dashboard](https://github.com/Jagger-01/Heart_Attack_Risk_Explorer)
 Explore key heart attack risk factors, treatment outcomes, and lifestyle impacts through this interactive dashboard.  
-<img src="https://github.com/user-attachments/assets/fd2108e1-a639-4260-a5e4-a7bf448ad07b" alt="Heart Attack Risk Explorer Dashboard Page 1" width="1280" height="720">
+<img src="https://github.com/user-attachments/assets/fd2108e1-a639-4260-a5e4-a7bf448ad07b" alt="Heart Attack Risk Explorer Dashboard Page 1" width="640" height="360">
 
 ### [Emerging Skills Analysis Dashboard](https://github.com/Jagger-01/Building-A-Dashboard-With-Google-Looker-Studio)
 A comprehensive dashboard showcasing insights on emerging IT skills, utilizing data collected through APIs and web scraping.  
-<img src="https://github.com/user-attachments/assets/5a6dbdfc-ac2c-4316-818e-beceaf0bfae1" alt="Emerging Skills Analysis Dashboard Page 1" width="1280" height="720">
+<img src="https://github.com/user-attachments/assets/5a6dbdfc-ac2c-4316-818e-beceaf0bfae1" alt="Emerging Skills Analysis Dashboard Page 1" width="640" height="360">
 
 ---
 
