@@ -33,13 +33,21 @@ A comprehensive dashboard showcasing insights on emerging IT skills, utilizing d
 
 ## 🛠️ Skills & Tools
 **Programming Languages:**  
-![Python](https://github.com/user-attachments/assets/7821bf99-d7aa-4dd7-abfb-ee19fb364a8d) ![SQL](https://github.com/user-attachments/assets/ba73c30d-9709-446d-a2bb-2d81e389a715) ![HTML](https://github.com/user-attachments/assets/064f1ae3-45e0-486d-92c6-1dc6bd4bb16d) ![CSS](https://github.com/user-attachments/assets/1451ca4e-1665-485c-8e36-74d1324904f8)
+<img src="https://github.com/user-attachments/assets/7821bf99-d7aa-4dd7-abfb-ee19fb364a8d" alt="Python" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/ba73c30d-9709-446d-a2bb-2d81e389a715" alt="SQL" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/064f1ae3-45e0-486d-92c6-1dc6bd4bb16d" alt="HTML" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/1451ca4e-1665-485c-8e36-74d1324904f8" alt="CSS" width="32" height="32">
 
 **Tools & Technologies:**  
-![Power BI](https://github.com/user-attachments/assets/d69a7f48-8425-4400-ab13-15420961202b) ![Looker Studio](https://github.com/user-attachments/assets/b8996881-c337-4a53-bef0-98e6d8bbc9ae) ![Pandas](https://github.com/user-attachments/assets/d3da74cd-5267-4710-867c-d1f57a7ca341) ![Seaborn](https://github.com/user-attachments/assets/9139eba5-0f18-4093-b1c9-b8c1f5504b81)
+<img src="https://github.com/user-attachments/assets/d69a7f48-8425-4400-ab13-15420961202b" alt="Power BI" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/b8996881-c337-4a53-bef0-98e6d8bbc9ae" alt="Looker Studio" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/d3da74cd-5267-4710-867c-d1f57a7ca341" alt="Pandas" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/9139eba5-0f18-4093-b1c9-b8c1f5504b81" alt="Seaborn" width="32" height="32">
 
 **Databases:**  
-![MySQL](https://github.com/user-attachments/assets/487af70f-55e1-4a9d-a4b4-e0fae0d7b72b) ![PostgreSQL](https://github.com/user-attachments/assets/006f2d94-2608-4300-a6ce-f1598439e27f) ![SQLite](https://github.com/user-attachments/assets/9fd33419-fc2c-4362-90f5-0582b0278c94)
+<img src="https://github.com/user-attachments/assets/487af70f-55e1-4a9d-a4b4-e0fae0d7b72b" alt="MySQL" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/006f2d94-2608-4300-a6ce-f1598439e27f" alt="PostgreSQL" width="32" height="32"> 
+<img src="https://github.com/user-attachments/assets/9fd33419-fc2c-4362-90f5-0582b0278c94" alt="SQLite" width="32" height="32">
 
 ---
 
