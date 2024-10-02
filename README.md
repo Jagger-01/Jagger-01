@@ -6,7 +6,6 @@
 ## About Me
 I am a passionate and dedicated Data Analyst with a strong foundation in Python, data visualization, and SQL. I have successfully completed the IBM Data Analyst Professional Certificate, along with multiple projects that demonstrate my ability to turn data into actionable insights.
 
-- 🔭 I’m currently working on **Customer Insights and Sales Performance Dashboard**
 - 🌱 I’m learning **Advanced SQL techniques**
 - 💬 Ask me about **Data Analysis, Python, Power BI, and SQL**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jagger-hollister) | [Email](mailto:JaggerHollister02@gmail.com)
